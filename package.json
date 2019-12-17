@@ -1,5 +1,5 @@
 {
-  "name": "todo-clean-architecture-react",
+  "name": "@domisoft/todo-clean-architecture-react",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
